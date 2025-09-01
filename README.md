@@ -56,5 +56,5 @@ This repository is for educational purposes only and follows the guidelines of t
 All rights reserved by the author.
 
 Author: Zian Rajeshkumar Surani
-📧 Email: zian.surani@example.com
+📧 Email: zian.surani@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/zian-rajeshkumar-surani-125215195/
